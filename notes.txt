@@ -1,0 +1,38 @@
+installed miniconda and jupyternotebook
+jupyter notebook and ipython are bundled
+ipython - integrated python notebook
+	? character to explore documentation
+	?? character to explore source code
+	tab key for autocompletion
+in python you can do help()
+	you can also do len?
+	it even works for functions you create
+Tab completion is also useful when importing objects from packages.
+IPython provides a means of wildcard matching for names using the * character.
+	use this when you know the middle or end of the thing you're looking for
+
+1.02
+Shortcuts in the iPython shell
+-theres a lot of shortcuts you can find them in 1.02
+
+1.03
+Magic commands in iPython - prefixed by %
+when copy pasting code into it, do %paste
+	you can always to %magicommand?
+%history -n 1-4
+1.04
+In and Out are variables created by iPython and you can do print(In) and print(Out) to see all the things
+you typed in before.
+Access previous output with _ you can also do ____
+1.05
+Shell and shell command stuff
+Any command that works at the command-line can be used in IPython by prefixing it with the ! character
+Passing Values to and from the Shell
+1.06
+Errors and debugging
+Lists debug commands and how to debug and deal with errors
+1.07
+Profiling and Timin code
+Magic commands
+	times how much time it takes for a function
+	
